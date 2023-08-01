@@ -1,0 +1,58 @@
+Station_Name,Free_Bikes,Empty_Slots,Total_Slots,Normal_Bikes,Online,Longitude,Latitude,Bakery_Name,Distance,Address,Emp_Agency_Name,Review_Count,Rating
+1 Slough Train Station,27.0,31.0,32.0,0.0,True,-0.59156182,51.51135,,,,,,
+2 Burnham Train Station,14.0,20.0,20.0,0.0,True,-0.6452942,51.523823,,,,,,
+3 Slough Trading Estate,30.0,19.0,32.0,0.0,True,-0.62563661,51.516508,,,,,,
+4 Slough Council,28.0,11.0,11.0,0.0,True,-0.607722,51.510629,,,,,,
+5 Trelawney Avenue,18.0,11.0,11.0,0.0,True,-0.554815,51.501937,,,,,,
+7 Sutton Lane,4.0,11.0,11.0,0.0,True,-0.534806,51.489517,,,,,,
+8 Yarmouth Road,11.0,8.0,8.0,0.0,True,-0.616663,51.519919,,,,,,
+9 Bath Road Shopping Centre,10.0,12.0,12.0,0.0,True,-0.635472,51.520432,,,,,,
+10 Chalvey High Street,3.0,12.0,12.0,0.0,True,-0.60676999,51.506562,,,,,,
+11 Britwell,5.0,11.0,12.0,0.0,True,-0.63102588,51.531906,,,,,,
+12 Windsor Road,18.0,7.0,8.0,0.0,True,-0.59673975,51.507274,,,,,,
+13 Arbour Park,26.0,12.0,12.0,0.0,True,-0.58962592,51.519485,,,,,,
+14 Wexham Road,18.0,2.0,12.0,0.0,True,-0.57820873,51.518459,,,,,,
+15 The Curve,21.0,12.0,12.0,0.0,True,-0.59497885,51.510246,,,,,,
+16 Langley,22.0,11.0,12.0,0.0,True,-0.54318756,51.507257,,,,,,
+17 Wexham Hospital,2.0,12.0,12.0,0.0,True,-0.5767782,51.532348,,,,,,
+6 O2,10.0,9.0,11.0,0.0,True,-0.63086763,51.518988,,,,,,
+,,,,,,-0.591567,51.510374,Krispy Kreme,109.0,"Tesco Extra Brunel Way (Wellington St), Slough, Berkshire, SL1 1XW",,,
+,,,,,,-0.589449,51.508094,Greggs,405.0,"223 High St, Slough, Berkshire, SL1 1BY",,,
+,,,,,,-0.593906,51.509227,Greggs,275.0,"1 Mackenzie St, Slough, Berkshire, SL1 1XQ",,,
+,,,,,,-0.589809,51.508564,Millies Cookies,432.0,"46b The Observatory, High St (The Observatory Shopping Centre), Slough, SL1 1LE",,,
+,,,,,,-0.593187,51.509968,Dawn's Wedding Cakes,190.0,"68 Mercian Way, Slough, SL1 5LY",,,
+,,,,,,-0.593187,51.509968,Tales from Lisa's Kitchen,190.0,Burnham on Sea,,,
+,,,,,,-0.602579,51.50608,Cookie Jar London,961.0,"20B Chalvey Rd East, Slough, SL1 2LU",,,
+,,,,,,-0.58443,51.506827,,705.0,"Upton Lodge, 2a, Yew Tree Rd (Upton Lodge, 2a), Slough, Berkshire, SL1 2AQ",Jobcentre Plus,,
+,,,,,,-0.592215,51.511589,,52.0,"1 Brunel Way, Slough, SL1 1FQ",Century Recruitment,,
+,,,,,,-0.59296,51.513558,,263.0,"Abbey House, 18-24, Stoke Rd, Slough, SL2 5AG",Century Recruitment,,
+,,,,,,-0.593744,51.509343,,269.0,"7 Mackenzie St, Slough, SL1 1XQ",Oracle Medical Care Uk Limited,,
+,,,,,,-0.594528,51.509412,,297.0,"129-133 High St, Slough, SL1 1DH",Peach Personnel Services,,
+,,,,,,-0.590465,51.508694,,304.0,"Wellington House, Slough, SL1 1DB",Michael Page International Recruitment Limited,,
+,,,,,,-0.588504,51.514106,,372.0,"Brooklands House, Petersfield Ave, Slough, SL2 5DY",Equator Consultancy,,
+,,,,,,-0.596997,51.509885,,409.0,"48 High St, Slough, SL1 1EL",Slough Connexions Centre,,
+,,,,,,-0.585672,51.512404,,423.0,"Albion House, 6 Albion, Slough, SL2 5DT",Jobdarn,,
+,,,,,,-0.58975,51.507591,,436.0,"218 High St, Slough, SL1 1JS",Darn,,
+,,,,,,-0.5843764,51.5555196,Fox & Pheasant,,Gerrards Cross Road,,3.0,4.5
+,,,,,,-0.645485974178728,51.5206703511754,Tummies Bistro,,5 Station Road,,18.0,4.5
+,,,,,,-0.6586815,51.5335629,Artigiani Del Cibo,,59-61 High Street,,2.0,5.0
+,,,,,,-0.701777,51.507909,The Fat Duck,,High Street,,87.0,5.0
+,,,,,,-0.586047,51.50765,Steakout,,295-297 High Street,,6.0,4.0
+,,,,,,-0.697951,51.50826,Caldesi In Campagna,,Old Mill Lane,,10.0,4.5
+,,,,,,-0.6490517,51.5274048,Burnham Fish and Chips,,164 Burnham Lane,,1.0,5.0
+,,,,,,-0.6155812,51.5554528,La Cantina Del Vino,,The Broadway,,1.0,4.0
+,,,,,,-0.5642902,51.5005104,Panjab Restaurant,,118 London Road,,1.0,4.0
+,,,,,,-0.702101024188096,51.5082016668704,The Hinds Head,,High Street,,44.0,4.5
+,,,,,,-0.647763,51.5200018,The Kais,,467 Bath Road,,1.0,5.0
+,,,,,,-0.699588298797607,51.5090247250808,The Waterside Inn,,Ferry Road,,28.0,4.5
+,,,,,,-0.615553,51.5568552,The Foresters Arms,,The Broadway,,1.0,4.0
+,,,,,,-0.665407106280327,51.5024139724885,Dorney Court Kitchen Garden,,Court Lane Dorney,,1.0,5.0
+,,,,,,-0.5966022,51.5097564,Mori Japanese Restaurant,,70 High Street,,2.0,4.5
+,,,,,,-0.701356,51.506771,The Crown at Bray,,High Street,,22.0,4.0
+,,,,,,-0.6894592,51.4934097,The Greene Oak,,Oakley Green,,6.0,4.0
+,,,,,,-0.5932932,51.5140457,The Chip Box,,39 Stoke Road,,2.0,4.5
+,,,,,,-0.5832705,51.5314335,The Red Lion,,Stoke Green,,9.0,4.0
+,,,,,,-0.512625,51.479487,Pla Tong,,Bath Road,,4.0,4.0
+,,,,,,-0.7015411,51.5436579,,,Lower Cookham Road,Westhill Consulting and Employment,2.0,5.0
+,,,,,,-0.6415299,51.5254621,,,,Goldteam Recruitment,1.0,1.0
+,,,,,,-0.584656186401844,51.5072489526664,,,,MYM Solicitors,1.0,5.0
